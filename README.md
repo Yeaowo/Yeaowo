@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Yeaowo 👋</h1>
   <p><b><i>"表面上是无情的 CRUD 机器，背地里在熬夜手搓三维地球 🌍"</i></b></p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer+💻;GIS+%26+Map+Engine+Enthusiast+🌍;AI-Driven+Developer+🤖;%E7%86%AC%E5%A4%9C%E4%B9%9F%E8%A6%81%E5%AD%A6%E4%B9%A0+☕" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer;GIS+%26+Map+Engine+Enthusiast;AI-Driven+Developer;Keep+Coding+%26+Learning!&v=1" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,15 +33,15 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yeaowo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeaowo&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yeaowo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=20260530" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeaowo&theme=tokyonight&hide_border=true&v=20260530" width="48%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeaowo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeaowo&layout=compact&theme=tokyonight&hide_border=true&v=20260530" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Yeaowo/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Yeaowo&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
