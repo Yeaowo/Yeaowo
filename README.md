@@ -33,11 +33,11 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yeaowo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=20260530" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeaowo&theme=tokyonight&hide_border=true&v=20260530" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yeaowo&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=5" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeaowo&theme=tokyonight&hide_border=true&v=5" width="48%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeaowo&layout=compact&theme=tokyonight&hide_border=true&v=20260530" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yeaowo&layout=compact&theme=tokyonight&hide_border=true&v=5" />
 </div>
 
 ---
